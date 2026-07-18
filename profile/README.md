@@ -1,6 +1,6 @@
 # terella
 
-Long-horizon agent workflows with a human in the loop.
+Long-horizon Agents
 
 <p align="center">
   <img src="./seed-of-life.gif" alt="Animated Seed of Life" width="480" />
